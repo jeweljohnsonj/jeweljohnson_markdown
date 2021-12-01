@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-body, td {
+body {
     font-family: 'Lato';
     font-size: 18px;
-}
-code.r{
-  font-size: 15px;
-}
-pre {
-  font-size: 15px
 }
