@@ -6,9 +6,9 @@ left:
     menu:
       - text: "Learn more about me"
         href: ./aboutme.html
-  - text: "Project"
+  - text: "R Tutorials"
     menu:
-       - text: "Project part 1"
+       - text: "Data visualization using ggplot2"
          href: ./project1.html
        - text: "Project part 2"
          href: ./project2.html
