@@ -2,6 +2,7 @@
 body, td {
     font-family: 'Lato';
     font-size: 18px;
+    text-align: justify;
 }
 code.r{
   font-size: 15px;
