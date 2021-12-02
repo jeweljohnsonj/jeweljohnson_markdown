@@ -2,6 +2,7 @@ name: "Jewel Johnson"
 output_dir: 'docs'
 output:
   html_document:
+    df_print: paged
     css: style.css
     theme: united
     highlight: kate
