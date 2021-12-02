@@ -2,7 +2,9 @@
 title: "ggplot2_graphs"
 author: "Jewel Johnson"
 date: "01/12/2021"
-output: html_document
+output: 
+  html_document:
+    toc: FALSE
 ---
 
 ```{r setup, include=FALSE}
